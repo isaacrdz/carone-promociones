@@ -22,6 +22,6 @@
 </script>
 </head>
 <body>
-  <h1>Hola</h1>
+  <img src="img/promociones_01.gif" alt="">
 </body>
 </html>
