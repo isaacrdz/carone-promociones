@@ -23,5 +23,6 @@
 </head>
 <body>
   <img src="img/promociones_01.gif" alt="">
+  <button>Cotizar</button>
 </body>
 </html>
