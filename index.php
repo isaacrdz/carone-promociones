@@ -22,7 +22,7 @@
 </script>
 </head>
 <body>
-  <img src="img/promociones_01.gif" alt="">
+  <img src="img/promociones-julio-2015.jpg" alt="">
   
 </body>
 </html>
