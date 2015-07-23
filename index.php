@@ -35,18 +35,22 @@
     }
     .absolute
     {
-     position: absolute;
+         position: absolute;
     top: 150px;
-    left: 500px;
+    left: 600px;
     background-color: #415590;
     color: white;
     padding: 1em;
     border-radius: 10px;
+    text-decoration: none;
     }
 
     a
     {
       color:white;
+      text-decoration: none;
+      font-family: Arial;
+      text-transform: uppercase;
     }
     
   </style>
