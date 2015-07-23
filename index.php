@@ -22,7 +22,7 @@
 </script>
 </head>
 <body>
-  <img src="img/promociones-julio-2015.jpg" alt="">
+  <img src="img/promo-julio.jpg" alt="">
   
 </body>
 </html>
