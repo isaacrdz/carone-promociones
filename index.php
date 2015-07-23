@@ -23,7 +23,9 @@
 </head>
 <body>
   <img src="img/promo-julio.jpg" alt="">
-  <a href="absolute">Cotizar aquí</a>
+  <div class="absolute">
+    <a href="#">Cotizar aquí</a>
+  </div>
 
   <style>
 
