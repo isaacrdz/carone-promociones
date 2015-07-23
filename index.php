@@ -35,7 +35,18 @@
     }
     .absolute
     {
-      position: absolute;
+     position: absolute;
+    top: 150px;
+    left: 500px;
+    background-color: #415590;
+    color: white;
+    padding: 1em;
+    border-radius: 10px;
+    }
+
+    a
+    {
+      color:white;
     }
     
   </style>
