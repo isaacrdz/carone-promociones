@@ -24,7 +24,7 @@
 <body>
   <img src="img/promo-julio.jpg" alt="">
   <div class="absolute">
-    <a href="www.facebook.com/CARONECHEVROLETOFICIAL/app_744685635678152">Cotizar aquí</a>
+    <a href="www.facebook.com/CARONECHEVROLETOFICIAL/app_684336108254110">Cotizar aquí</a>
   </div>
 
   <style>
