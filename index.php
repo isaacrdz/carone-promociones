@@ -23,6 +23,20 @@
 </head>
 <body>
   <img src="img/promo-julio.jpg" alt="">
+  <a href="absolute">Cotizar aquí</a>
+
+  <style>
+
+    img
+    {
+      position: relative;
+    }
+    .absolute
+    {
+      position: absolute;
+    }
+    
+  </style>
   
 </body>
 </html>
